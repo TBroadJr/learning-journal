@@ -158,6 +158,7 @@
   border: none;
   border-bottom: solid 2px black;
   margin: 2em auto;
+  color: black;
 }
 
 .more-btn:hover {
